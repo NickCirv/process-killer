@@ -1,0 +1,29 @@
+{
+  "name": "process-killer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Kill processes by port, name, or PID — replaces lsof | grep | kill with one command",
+  "bin": {
+    "process-killer": "./index.js",
+    "pk": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "process",
+    "kill",
+    "port",
+    "devtools"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/process-killer"
+  },
+  "author": "NickCirv"
+}
