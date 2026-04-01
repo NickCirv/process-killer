@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # process-killer
 
 Kill processes by port, name, or PID. Replaces `lsof | grep | kill` muscle memory with a single command.
